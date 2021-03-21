@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Rishit Mavani</h1>
 <h3 align="center">A student of Technology.</h3>
 
-<p align="left"> <a href="https://twitter.com/rishitmavani" target="blank"><img src="https://img.shields.io/twitter/follow/rishitmavani?logo=twitter&style=for-the-badge" alt="rishitmavani" /></a> <a href="https://instagram.com/rishit_mavani" target="blank"><img src="https://img.shields.io/twitter/follow/rishit_mavani?logo=instagram&style=for-the-badge" alt="rishit_mavani" /></a> </p>
+<p align="left"> <a href="https://twitter.com/rishitmavani" target="blank"><img src="https://img.shields.io/twitter/follow/rishitmavani?logo=twitter&style=for-the-badge" alt="rishitmavani" /></a> <a href="https://instagram.com/rishit_mavani" target="blank"><img src="https://img.shields.io/instagram/follow/rishit_mavani?logo=instagram&style=for-the-badge" alt="rishit_mavani" /></a> </p>
 
 - 🔭 I’m currently working on [DreamnoidAIbot](https://github.com/rishitmavani/DreamnoidAIbot)
 
