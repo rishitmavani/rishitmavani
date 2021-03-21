@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Rishit Mavani</h1>
 <h3 align="center">A student of Technology.</h3>
 
-<p align="left"> <a href="https://twitter.com/rishitmavani" target="blank"><img src="https://img.shields.io/twitter/follow/rishitmavani?logo=twitter&style=for-the-badge" alt="rishitmavani" /></a> </p>
+<p align="left"> <a href="https://twitter.com/rishitmavani" target="blank"><img src="https://img.shields.io/twitter/follow/rishitmavani?logo=twitter&style=for-the-badge" alt="rishitmavani" /></a> <a href="https://instagram.com/rishit_mavani" target="blank"><img src="https://img.shields.io/twitter/follow/rishit_mavani?logo=instagram&style=for-the-badge" alt="rishit_mavani" /></a> </p>
 
 - 🔭 I’m currently working on [DreamnoidAIbot](https://github.com/rishitmavani/DreamnoidAIbot)
 
@@ -16,7 +16,7 @@
 <a href="https://twitter.com/rishitmavani" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="rishitmavani" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/rishitmavani" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="rishitmavani" height="30" width="40" /></a>
 <a href="https://fb.com/rishit001" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="rishit001" height="30" width="40" /></a>
-<a href="https://instagram.com/rishitmavani" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="rishitmavani" height="30" width="40" /></a>
+<a href="https://instagram.com/rishit_mavani" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="rishit_mavani" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/technicalrishit" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" alt="technicalrishit" height="30" width="40" /></a>
 <a href="https://discord.gg/ypvbNbe" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/discord.svg" alt="ypvbNbe" height="30" width="40" /></a>
 </p>
