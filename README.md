@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Rishit Mavani</h1>
-<h3 align="center">Studing Information Technology.</h3>
+<h3 align="center">Studying Information Technology.</h3>
 
 <p align="left"> <a href="https://twitter.com/rishitmavani" target="blank"><img src="https://img.shields.io/twitter/follow/RishitMavani?logo=twitter&style=plastic" /></a>  </p>
 
