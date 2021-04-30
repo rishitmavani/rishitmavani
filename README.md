@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **mavanirishit@gmail.com**
 
-- 📄 Know about my experiences [https://rishitmavaniresume.blogspot.com/2021/03/resume.html](https://rishitmavaniresume.blogspot.com/2021/03/resume.html)
+- 📄 Know about my experiences [https://rishitmavanicv.blogspot.com/2021/04/lebenslauf-personliche-daten-name.html](https://rishitmavanicv.blogspot.com/2021/04/lebenslauf-personliche-daten-name.html)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
