@@ -7,7 +7,7 @@
 - 🔭 My own voice-command bot [DreamnoidAIbot](https://github.com/rishitmavani/DreamnoidAIbot)
 - 🔭 Final year project of Diploma Engineering [Apocalypse: The end of evil](https://github.com/rishitmavani/Apocalypse-The_end_of_evil)
 
-- 🌱 I’m currently learning **Python, Bash script, CI/CD, Game Development, Machine Learning stuff.**
+- 🌱 Trying to do things mainly in **Python, Bash script, CI/CD, Game Development, Machine Learning stuff, Cyber Security.**
 
 - 📫 How to reach me **mavanirishit@gmail.com**
 
