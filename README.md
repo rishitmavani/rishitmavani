@@ -1,24 +1,25 @@
 <h1 align="center">Hi 👋, I'm Rishit Mavani</h1>
-<h3 align="center">Studying Information Technology.</h3>
 
 
-- 🔭 I’m currently working on [DreamnoidAIbot](https://github.com/rishitmavani/DreamnoidAIbot)
+
+- 🌱I am pursuing a Bachelor's degree in **Electrical engineering and Information Technology** at Hochshule Ravensburg-Weingarten, Deutschland.
+ 
+- 🔭 My own voice-command bot [DreamnoidAIbot](https://github.com/rishitmavani/DreamnoidAIbot)
 - 🔭 Final year project of Diploma Engineering [Apocalypse: The end of evil](https://github.com/rishitmavani/Apocalypse-The_end_of_evil)
 
-- 🌱 I’m currently learning **Python, Java, Machine Learning stuff.**
+- 🌱 I’m currently learning **Python, Bash script, CI/CD, Game Development, Machine Learning stuff.**
 
 - 📫 How to reach me **mavanirishit@gmail.com**
 
-- 📄 Know about my experiences [CV](https://rishitmavanicv.blogspot.com/2021/04/lebenslauf-personliche-daten-name.html)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/rishitmavani" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="rishitmavani" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/rishitmavani" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="rishitmavani" height="30" width="40" /></a>
-<a href="https://fb.com/rishit001" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="rishit001" height="30" width="40" /></a>
-<a href="https://instagram.com/rishit_mavani" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="rishit_mavani" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/technicalrishit" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" alt="technicalrishit" height="30" width="40" /></a>
-<a href="https://discord.gg/ypvbNbe" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/discord.svg" alt="ypvbNbe" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/rishitmavani" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" alt="rishitmavani" height="35" width="40" /></a>
+<a href="https://twitter.com/rishitmavani" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/4/4f/Twitter-logo.svg" alt="rishitmavani" height="35" width="40" /></a>
+<a href="https://fb.com/rishit001" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/0/05/Facebook_Logo_%282019%29.png" alt="rishit001" height="35" width="40" /></a>
+<a href="https://instagram.com/rishit_mavani" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/9/95/Instagram_logo_2022.svg" alt="rishit_mavani" height="35" width="40" /></a>
+<a href="https://www.youtube.com/c/technicalrishit" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/e/ef/Youtube_logo.png" alt="technicalrishit" height="32" width="40" /></a>
+<a href="https://discord.gg/ypvbNbe" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/4/4b/Discord-logo-blurple.png" alt="ypvbNbe" height="32" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
