@@ -15,11 +15,11 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/rishitmavani" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" alt="rishitmavani" height="35" width="40" /></a>
-<a href="https://twitter.com/rishitmavani" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/4/4f/Twitter-logo.svg" alt="rishitmavani" height="35" width="40" /></a>
-<a href="https://fb.com/rishit001" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/0/05/Facebook_Logo_%282019%29.png" alt="rishit001" height="35" width="40" /></a>
+<a href="https://x.com/rishitmavani" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/2/2d/Twitter_X.png" alt="rishitmavani" height="35" width="40" /></a>
+<a href="https://fb.com/rishit001" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/0/05/Facebook_Logo_%282019%29.png" alt="X" height="35" width="40" /></a>
 <a href="https://instagram.com/rishit_mavani" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/9/95/Instagram_logo_2022.svg" alt="rishit_mavani" height="35" width="40" /></a>
 <a href="https://www.youtube.com/c/technicalrishit" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/e/ef/Youtube_logo.png" alt="technicalrishit" height="32" width="40" /></a>
-<a href="https://discord.gg/ypvbNbe" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/4/4b/Discord-logo-blurple.png" alt="ypvbNbe" height="32" width="40" /></a>
+<a href="https://discord.gg/ypvbNbe" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/4/4b/Discord-logo-blurple.png" alt="Discord" height="32" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
