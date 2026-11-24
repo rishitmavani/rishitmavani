@@ -1,6 +1,6 @@
 <h1>Rishit Mavani</h1>
 
-Electrical engineer turned software builder, based in Weingarten, Germany.
+Electrical and IT engineer turned software builder, based in Weingarten, Germany.
 By day I work on ultrasonic sensor systems at Sarissa. The rest of the time I'm building [Execlave](https://www.execlave.com), so AI agents stop doing things nobody approved.
 
 [![Execlave](https://img.shields.io/badge/execlave.com-2D6FF2?style=flat-square&labelColor=0B0E17&logo=googlechrome&logoColor=white)](https://www.execlave.com)
